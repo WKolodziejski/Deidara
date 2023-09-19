@@ -29,7 +29,7 @@ python3 main.py -i my_text.txt -o output_file.md -t md -j 0 -f 50
 ## Shell
 
 ``
-./bash [<files>]
+./bash.sh [<files>]
 ``
 
 ### Example
